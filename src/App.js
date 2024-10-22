@@ -57,7 +57,7 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
     children: [
       {
-        path: "/",
+        path: "/Ecell-MCU/",
         element: <Home/>,
       },
       {
