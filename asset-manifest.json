@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ecell-MCU/static/css/main.58bb888d.css",
-    "main.js": "/Ecell-MCU/static/js/main.5dfc3645.js",
+    "main.js": "/Ecell-MCU/static/js/main.3aeffe13.js",
     "static/js/453.3135ea65.chunk.js": "/Ecell-MCU/static/js/453.3135ea65.chunk.js",
     "static/media/event-bg.mp4": "/Ecell-MCU/static/media/event-bg.1bf2d5fd72f10be8e042.mp4",
     "static/media/landing.mp4": "/Ecell-MCU/static/media/landing.f0a6de23a64ffbfd4f5a.mp4",
@@ -31,11 +31,11 @@
     "static/media/2-new.jpg": "/Ecell-MCU/static/media/2-new.8d3fd30a23affd25d911.jpg",
     "index.html": "/Ecell-MCU/index.html",
     "main.58bb888d.css.map": "/Ecell-MCU/static/css/main.58bb888d.css.map",
-    "main.5dfc3645.js.map": "/Ecell-MCU/static/js/main.5dfc3645.js.map",
+    "main.3aeffe13.js.map": "/Ecell-MCU/static/js/main.3aeffe13.js.map",
     "453.3135ea65.chunk.js.map": "/Ecell-MCU/static/js/453.3135ea65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58bb888d.css",
-    "static/js/main.5dfc3645.js"
+    "static/js/main.3aeffe13.js"
   ]
 }
